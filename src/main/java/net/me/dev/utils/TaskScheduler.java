@@ -28,7 +28,7 @@ public class TaskScheduler {
 	
 	public void turnOn() {
 		switch(this.dayOfTheWeek) {
-			case "miércoles":
+			case "miercoles":
 				this.taskPeriod = 3;
 				break;
 			case "jueves":
